@@ -1,0 +1,25 @@
+{
+  "meetups": [
+    {
+      "title": "djura",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "sdcfve",
+      "description": "vetvtvtv",
+      "id": 1
+    },
+    {
+      "title": "pera",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "vfbgnbhnhfmfh",
+      "description": "mmmmmmmmmmmmmmm",
+      "id": 2
+    },
+    {
+      "title": "hnhjmt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "nytny",
+      "description": "ntyntyntynytntyntynty",
+      "id": 3
+    }
+  ]
+}
